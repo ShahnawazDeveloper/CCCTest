@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CCCTest</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="if_you_don_t_have_an_account">If you don\'t have an account , please register</string>
+
+
+
+    <string name="image_url"> https://farm%1$s.staticflickr.com/%2$s/%3$s_%4$s.jpg</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="sign_up">Sign Up</string>
+
+
+    <!-- messages-->
+    <string name="error_msg_complete_form">Please complete the form</string>
+    <string name="error_msg_invalid_email">Email is not valid</string>
+    <string name="error_msg_invalid_number">Mobile number is not valid</string>
+    <string name="error_msg_invalid_password">Password should contain one special character and minimum 8 character required</string>
+    <string name="msg_login_success">Login successfully</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+    <string name="no_internet">No Internet Available</string>
+    <string name="msg_number_edited">Number was edited successfully</string>
+    <string name="msg_change_number">Change Your Number</string>
+
+    <string-array name="array_countries">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
